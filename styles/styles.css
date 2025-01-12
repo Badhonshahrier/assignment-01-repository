@@ -481,6 +481,9 @@ font-weight: 400;
     font-weight: 400;
 
   }
+  .newsletter-container{
+    margin-bottom: 70px;
+  }
   /* hover */
   .btn:hover{
     background-color: #FFC239;
