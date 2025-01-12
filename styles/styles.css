@@ -472,4 +472,46 @@ font-weight: 400;
     display: flex;
     margin-left:90px;
   }
+  .newsletter-btn input[type="email"]{
+    
+    color: rgba(14, 14, 14, 0.30);
+    font-family: "Fira Sans";
+    font-size: 16px;
+
+    font-weight: 400;
+
+  }
   /* hover */
+  .btn:hover{
+    background-color: #FFC239;
+  }
+  .card-btn-1:hover{
+background-color: chartreuse;
+  }
+  .card-btn-2:hover{
+background-color: darkmagenta;
+  }
+  .card-btn-3:hover {
+background-color: rgb(173, 205, 92);
+  }
+  .news-btn:hover{
+    background-color: crimson;
+  }
+  .card-btn-100:hover{
+background-color: coral;
+  }
+  .card-btn-200:hover{
+background-color: brown;
+  }
+  .card-btn-500:hover{
+background-color: greenyellow;
+  }
+  .card-btn-1000:hover{
+background-color: lime;
+  }
+  .done-btn:hover{
+    background-color: #FFC239;
+  }
+  .button-subscribe:hover{
+background-color: darkorange;
+  }
